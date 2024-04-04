@@ -1,4 +1,4 @@
-# The Lego Universe is back!
+# The Lego Universe is back thelegouniverse.com
 
 Welcome to the world of Lego Universe, where creativity knows no bounds!
 
@@ -10,7 +10,7 @@ Welcome to the world of Lego Universe, where creativity knows no bounds!
 The Lego Universe is a vibrant online world where you can build, explore, and connect with other Lego enthusiasts from around the globe. Dive into a universe filled with endless possibilities and let your imagination soar!
 
 ## Get Started
-1. Visit [thelegouniverse.com](https://thelegouniverse.com)
+1. Visit [The Lego Universe](https://thelegouniverse.com)
 2. Sign up for an account
 3. Start building and exploring!
 
@@ -18,6 +18,6 @@ The Lego Universe is a vibrant online world where you can build, explore, and co
 We welcome contributions to enhance the Lego Universe experience. Feel free to fork this repository, make improvements, and submit a pull request.
 
 ## Support
-For any questions or assistance, please contact us at [support@thelegouniverse.com](mailto:support@thelegouniverse.com).
+For any questions or assistance, please contact us at [Visit The Lego Universe website](https://thelegouniverse.com/#help)
 
 Happy building!
