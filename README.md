@@ -18,6 +18,6 @@ The Lego Universe is a vibrant online world where you can build, explore, and co
 We welcome contributions to enhance the Lego Universe experience. Feel free to fork this repository, make improvements, and submit a pull request.
 
 ## Support
-For any questions or assistance, please contact us at [Visit The Lego Universe website](https://thelegouniverse.com/#help)
+For any questions or assistance, please contact us at [The Lego Universe Website](https://thelegouniverse.com/#help)
 
 Happy building!
